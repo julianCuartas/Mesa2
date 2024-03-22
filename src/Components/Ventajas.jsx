@@ -20,7 +20,7 @@ export default function Ventajas() {
                     y fortalecer el café especial producido en todo el valle del cauca a nivel mundial.</p>
                 <p>Damos una oportunidad para que pequeños productores muestren sus productos a compradores del Valle del Cauca.</p>
             </div>
-            <h3>BENEFICIOS DE PERTENECER A LA MESA TECNICA</h3>
+            <h3 id="Beneficios">BENEFICIOS DE PERTENECER A LA MESA TECNICA</h3>
             <div className="n-ventajas-contenedor-tarjetas">
                 <ItemVentaja
                     icono={educacion}

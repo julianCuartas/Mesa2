@@ -15,7 +15,7 @@ function Home() {
           <p className="text-subtittle">Aliados comerciales</p>
         </div>
         <div>
-          <p className="text-tittle">+150</p>
+          <p className="text-tittle">+200</p>
           <p className="text-subtittle">Miembros</p>
         </div>
         <div>

@@ -1,0 +1,21 @@
+:root {
+  font-family: raleway;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+* {
+  box-sizing: border-box;
+ 
+}
+
+body{
+margin: 0;
+/* padding-top:70px ; */
+}
+
+
+
+
+
+

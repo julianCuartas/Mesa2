@@ -17,16 +17,16 @@ function Footer() {
             <div>
                 <a href='https://www.facebook.com/mesa.tecnica.de.cafes.especiales.del.val'><img src={facebook}></img></a>
                 <a href='https://www.instagram.com/mesa.tecn.cafespecialesvalle/'><img src={insta}></img></a>
-                <a href=''><img src={whats}></img></a>
+                <a href='https://api.whatsapp.com/send/?phone=3162088590'><img src={whats}></img></a>
             </div>
         </div>
         <div >
             <p className='footerTittle'>Sobre nosotros</p>
                 <div>
-                    <p className='txtFooter'>Quienes somos</p>
-                    <p className='txtFooter'>Beneficios</p>
-                    <p className='txtFooter'>Aliados</p>
-                    <p className='txtFooter'>Eventos</p>
+                    <p className='txtFooter'><a href="#Objetivo">Quienes somos</a> </p>
+                    <p className='txtFooter'><a href="#Beneficios">Beneficios</a></p>
+                    <p className='txtFooter'><a href="#Aliados"> Aliados</a></p>
+                    <p className='txtFooter'><a href="#Eventos">Eventos</a></p>
                 </div>
         </div>
     </div>

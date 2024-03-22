@@ -29,6 +29,12 @@
     font-weight: 300;
     line-height: normal;
 }
+.txtFooter>a{
+
+    color: var(--mesatecnica-paleta-Color-4, #F8DCC5);
+    text-decoration: none;
+
+}
 .footerTittle{
     color: var(--mesatecnica-paleta-Color-4, #F8DCC5);
     text-align: center;

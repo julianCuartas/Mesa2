@@ -6,7 +6,7 @@ function Home() {
     <div className="container-home">
       
       <div className="container-tittle">
-        <h1>Mesa técnica de cafés especiales del valle del cauca</h1>
+        <h1>Mesa técnica de cafés especial del valle del cauca</h1>
         <p className="text-tittle">¡El Valle también es café!</p>
       </div>
       <div className="container-subtittle">

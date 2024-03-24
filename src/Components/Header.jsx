@@ -11,6 +11,7 @@ export default function Header() {
                 <li><a href="#Objetivo">OBJETIVO</a></li>
                 <li><a href="#Aliados"> ALIADOS</a></li>
                 <li> <a href="#Eventos">EVENTOS</a> </li>
+                <li><a href="#Footer">CONTACTANOS</a></li>
             </ul>
         </header>
     )

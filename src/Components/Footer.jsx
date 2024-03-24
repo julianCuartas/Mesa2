@@ -6,7 +6,7 @@ import whats from '../Assets/whats.svg'
 
 function Footer() {
   return (
-    <div className='footerContainer'>
+    <div className='footerContainer' id='Footer'>
     <div className='footerElements'>
         <div className='footerImgContainer'>
             <img className='footerImg' src='https://res.cloudinary.com/dz1rjmgc8/image/upload/v1710364213/LogoMesaTecnica-03_vaknei.png'></img>
@@ -18,7 +18,9 @@ function Footer() {
                 <a href='https://www.facebook.com/mesa.tecnica.de.cafes.especiales.del.val'><img src={facebook}></img></a>
                 <a href='https://www.instagram.com/mesa.tecn.cafespecialesvalle/'><img src={insta}></img></a>
                 <a href='https://api.whatsapp.com/send/?phone=3162088590'><img src={whats}></img></a>
+                
             </div>
+            <p className='txtFooter'>m.t.cafesespeciales.valle@gmail.com</p>
         </div>
         <div >
             <p className='footerTittle'>Sobre nosotros</p>

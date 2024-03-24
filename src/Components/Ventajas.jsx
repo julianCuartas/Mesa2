@@ -17,7 +17,7 @@ export default function Ventajas() {
             <div className="n-ventajas-objetivos">
                 <h3>NUESTRO OBJETIVO</h3>
                 <p>Como mesa técnica enfocada hacia el café especial, buscamos visibilizar, posicionar
-                    y fortalecer el café especial producido en todo el valle del cauca a nivel mundial.</p>
+                    y fortalecer el Café Especial producido en todo el Valle del Cauca a nivel mundial.</p>
                 <p>Damos una oportunidad para que pequeños productores muestren sus productos a compradores del Valle del Cauca.</p>
             </div>
             <h3 id="Beneficios">BENEFICIOS DE PERTENECER A LA MESA TECNICA</h3>
